@@ -54,7 +54,7 @@ def add_characters
          ]
       }
    }
-
+def update_status
   epic_tragedy[:additional_characters] = 
   [
     {
@@ -64,4 +64,5 @@ def add_characters
       name: 'Apothecary'
     }
   ]
+end 
 end
