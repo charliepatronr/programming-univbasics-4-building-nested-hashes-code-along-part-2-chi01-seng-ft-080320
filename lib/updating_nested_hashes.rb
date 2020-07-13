@@ -32,7 +32,6 @@ epic_tragedy[:capulet][:heroine][:status] = 'dead'
 end 
 
 
-end
 
 def add_characters
    epic_tragedy = {
