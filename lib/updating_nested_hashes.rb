@@ -64,5 +64,6 @@ def update_status
       name: 'Apothecary'
     }
   ]
-end 
+end
+update_status
 end
